@@ -1,0 +1,19 @@
+{
+  "name": "analogclock",
+  "version": "1.0.0",
+  "description": "This is an analog clock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmshiyas/js-analogclock.git"
+  },
+  "author": "Shiyas Cholamukhath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmshiyas/js-analogclock/issues"
+  },
+  "homepage": "https://github.com/cmshiyas/js-analogclock#readme"
+}
