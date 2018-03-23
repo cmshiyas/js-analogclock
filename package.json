@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/cmshiyas/js-analogclock/issues"
   },
-  "homepage": "https://github.com/cmshiyas/js-analogclock#readme"
+  "homepage": "https://github.com/cmshiyas/js-analogclock#readme",
+  "devDependencies": {}
 }
