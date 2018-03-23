@@ -46,7 +46,7 @@
 
 .second-arm {
     fill: none;
-    stroke: #000;
+    stroke: rgb(145, 8, 8);
     stroke-width: 4;
     stroke-miterlimit: 10;
 }
@@ -62,5 +62,5 @@
 #minute,
 #second {
     transform-origin: 300px 300px;
-    transition: transform .5s ease-in-out;
+    /* transition: transform .5s ease-in-out; */
 }
